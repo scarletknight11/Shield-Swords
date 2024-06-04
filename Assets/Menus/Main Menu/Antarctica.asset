@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72c503577cc9450e92f7ee4ca94b61a7, type: 3}
+  m_Name: Antarctica
+  m_EditorClassIdentifier: 
+  items:
+  - style:
+      name: Ice Slicer
+      description: "\t\t"
+      icon: {fileID: 2800000, guid: 9d5d35c1dd7960d42b49a535a03e4ad4, type: 3}
+      color:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      normalColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      highlightedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      pressedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      selectedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      disabledColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+    subLayout: {fileID: 0}
+    stateKey: scene_WordSaber
+  - style:
+      name: Ice Crusher
+      description: 
+      icon: {fileID: 2800000, guid: 7e64cec8f0c33a64aa8e4f2a3bd74824, type: 3}
+      color:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      normalColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      highlightedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      pressedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      selectedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      disabledColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+    subLayout: {fileID: 0}
+    stateKey: scene_WordCreation
+  - style:
+      name: Snow Writing
+      description: 
+      icon: {fileID: 2800000, guid: caadf31202fc81c489043b85c23ed637, type: 3}
+      color:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      normalColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      highlightedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      pressedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      selectedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      disabledColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+    subLayout: {fileID: 0}
+    stateKey: scene_PhoneticPrompt

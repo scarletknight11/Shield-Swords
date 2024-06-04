@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72c503577cc9450e92f7ee4ca94b61a7, type: 3}
+  m_Name: Dynamic User Select Menu
+  m_EditorClassIdentifier: 
+  items:
+  - style:
+      name: student 1
+      description: 
+      icon: {fileID: 2800000, guid: 48f12fcac11550743abbf58759748fe8, type: 3}
+      color:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      normalColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      highlightedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      pressedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      selectedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      disabledColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+    subLayout: {fileID: 0}
+    stateKey: LoadProfileID=student 1
+  - style:
+      name: student 2
+      description: 
+      icon: {fileID: 2800000, guid: 48f12fcac11550743abbf58759748fe8, type: 3}
+      color:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      normalColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      highlightedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      pressedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      selectedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      disabledColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+    subLayout: {fileID: 0}
+    stateKey: LoadProfileID=student 2
+  - style:
+      name: New User
+      description: 
+      icon: {fileID: 2800000, guid: 7510414177b1ec34aa96cf764be0bd67, type: 3}
+      color:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      normalColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      highlightedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      pressedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      selectedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      disabledColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+    subLayout: {fileID: 0}
+    stateKey: AddNewUserProfile
+  - style:
+      name: Delete Active Profile
+      description: 
+      icon: {fileID: 2800000, guid: 274c7cec74ad8d0409b58c3de871db28, type: 3}
+      color:
+        hasValue: 1
+        value:
+          fallbackValue: {r: 1, g: 0.17368057, b: 0.0990566, a: 0}
+          key: 
+          usesKey: 0
+      normalColor:
+        hasValue: 1
+        value:
+          fallbackValue: {r: 1, g: 0.17254902, b: 0.098039225, a: 0}
+          key: 
+          usesKey: 0
+      highlightedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      pressedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      selectedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      disabledColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+    subLayout: {fileID: 11400000, guid: 1630966a9aefa3a4193d48753aeb6e44, type: 2}
+    stateKey: 

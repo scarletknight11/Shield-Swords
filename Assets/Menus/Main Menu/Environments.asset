@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72c503577cc9450e92f7ee4ca94b61a7, type: 3}
+  m_Name: Environments
+  m_EditorClassIdentifier: 
+  items:
+  - style:
+      name: Antarctica
+      description: 
+      icon: {fileID: 2800000, guid: 948afaed3d53e314e99598f52781c8f0, type: 3}
+      color:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      normalColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      highlightedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      pressedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      selectedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      disabledColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+    subLayout: {fileID: 11400000, guid: ad96474cf30cf66478e819f56306f95d, type: 2}
+    stateKey: 
+  - style:
+      name: China
+      description: 
+      icon: {fileID: 2800000, guid: 38fae3c30b829ac4087fb2f9a37e0e91, type: 3}
+      color:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      normalColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      highlightedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      pressedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      selectedColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+      disabledColor:
+        hasValue: 0
+        value:
+          fallbackValue: {r: 0, g: 0, b: 0, a: 0}
+          key: 
+          usesKey: 0
+    subLayout: {fileID: 0}
+    stateKey: 
